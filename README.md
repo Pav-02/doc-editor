@@ -1,8 +1,6 @@
-                                                        REAL-TIME COLLABORATIVE DOCUMENT EDITOR
+                                                       REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
-
-
-
+Company - CodTech IT Solutions, Name - N.C.Pavani, Intern ID - CT06DF2606, Domain - Full Stack, Duration - 6 weeks, Mentor - Neela Santhosh
 
 # Real-time Collaborative Document Editor
 This project implements a basic real-time collaborative document editor, allowing multiple users to edit the same document simultaneously with instant updates across all connected clients.

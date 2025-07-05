@@ -1,4 +1,4 @@
-                                                       REAL-TIME COLLABORATIVE DOCUMENT EDITOR
+                                                REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
 Company - CodTech IT Solutions, Name - N.C.Pavani, Intern ID - CT06DF2606, Domain - Full Stack, Duration - 6 weeks, Mentor - Neela Santhosh
 
@@ -65,6 +65,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 real-time-editor/ ├── backend/ # Node.js server with Socket.IO │ ├── node_modules/ │ ├── package.json │ ├── server.js # Main backend application file │ └── ... ├── client/ # React.js frontend application │ ├── node_modules/ │ ├── public/ │ ├── src/ │ │ ├── App.js # Main React component │ │ └── ... │ ├── package.json │ └── ... ├── .gitignore # Specifies intentionally untracked files to ignore └── README.md # This file
 
 
-https://github.com/user-attachments/assets/9520af73-17c9-4369-b089-b42c27c8d9b1
+https://github.com/user-attachments/assets/9520af73-17c9-4369-b089-b42c27c8d9b1 -----VIDEO OF PROJECT
 ![Screenshot 2025-07-05 101703](https://github.com/user-attachments/assets/72088d43-e169-4e94-8062-7ab384676e61)
 
